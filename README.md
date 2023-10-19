@@ -1,10 +1,12 @@
-# WeatherReport
-I developed a simple Weather App using Node.js, Express, and OpenWeatherMap API. This application fetches real-time weather data for any location worldwide. Users can easily search for a location and view current weather conditions.
+# Weather App
+I created a user-friendly Weather Application utilizing Node.js, Express, and the OpenWeatherMap API. This innovative tool provides up-to-date weather information for any place on the globe, making it simple for users to find and access current weather conditions.
 
-# Key Technologies Used:
-Node.js: Backend JavaScript runtime
-Express: Web application framework for Node.js
-OpenWeatherMap API: Integration for weather data retrieval
-Git: Version control and collaboration
-# Required environment variables
-API_KEY=yourapikey
+# Core Technologies Utilized:
+- Node.js: The backend JavaScript runtime powering the application.
+- Express: A Node.js web application framework for seamless development.
+- OpenWeatherMap API: Integrated for retrieving comprehensive weather data.
+- Git: Employed for version control and team collaboration.
+
+# Necessary Environment Variables
+To utilize this app, you must set the following environment variable:
+- API_KEY: Your personal API key for accessing weather data.
